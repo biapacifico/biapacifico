@@ -1,6 +1,6 @@
 ### Oi, sou a Bianca Pacífico ☺️
 
-- 👩‍💻 Estudade de Engenharia de Computação no CEFET-MG
+- 👩‍💻 Estudante de Engenharia de Computação no CEFET-MG
 
 <div align="center">
   <a href="https://github.com/biapacifico">
