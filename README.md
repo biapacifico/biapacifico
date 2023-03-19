@@ -7,3 +7,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=biapacifico&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapacifico&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+<br>
+<div align="center">
+  <img alt="Bia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+</div>
