@@ -10,4 +10,5 @@
 <br>
 <div align="center">
   <img alt="Bia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="Bia-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>        
 </div>
