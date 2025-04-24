@@ -1,7 +1,8 @@
 ## Oi, eu sou a Bianca 👋
 
 - 🎓 Estudante de Engenharia de Computação no CEFET-MG
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web
+- 🔭 Trainee em Engenharia de Software na LEVTY
+- 🌱 Atualmente estou aprimorando meus conhecimentos em Data Science
 
 <div align="center">
   <a href="https://github.com/biapacifico">
@@ -11,7 +12,7 @@
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=py,mysql,c,cpp,java,html,css,js"/>
   </a>
 </div>
 <br>
