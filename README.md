@@ -1,8 +1,8 @@
-## Oi, eu sou a Bianca 👋
+## Hi, I'm Bianca 👋
 
-- 🎓 Estudante de Engenharia de Computação no CEFET-MG
-- 🔭 Trainee em Engenharia de Software na LEVTY
-- 🌱 Atualmente estou aprimorando meus conhecimentos em Data Science
+- 🎓 Computer Engineering student at CEFET-MG
+- 🔭 Software Engineer Intern at Cadence Design Systems
+- 🌱 I'm interested in Software Engineering, Data Science, Machine Learning and AI
 
 <div align="center">
   <a href="https://github.com/biapacifico">
@@ -17,7 +17,7 @@
 </div>
 <br>
     
-## 📫 Onde me achar: <img height="130em" align="right" src="https://images.uncyc.org/pt/thumb/7/71/Mandosprite.gif/800px-Mandosprite.gif"/>
+## 📫 Where to find me: <img height="130em" align="right" src="https://images.uncyc.org/pt/thumb/7/71/Mandosprite.gif/800px-Mandosprite.gif"/>
 <div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancapacifico/)
